@@ -7,5 +7,5 @@ updates:
   - package-ecosystem: "nuget"
     directory: "/code/"
     schedule:
-      interval: "weekely"
+      interval: "weekly"
 
